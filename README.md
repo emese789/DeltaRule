@@ -9,3 +9,6 @@ osztályokat. Négyzetes hibafüggvényt használjon.
 ### Kiválasztott képhalmazok
 1. Esernyő(umbrella)
 2. Pizza
+
+### Felmerülő probléma
+Információ hiány, így nem sikerült teljesen befejezni.(A program nem teljesen működőképes)
