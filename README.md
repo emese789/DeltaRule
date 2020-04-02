@@ -1,5 +1,5 @@
 # DeltaRule
-#Feladat
+# Feladat
 1. Válasszon ki n >= 2 osztályt http://www.vision.caltech.edu/Image_Datasets/Caltech101
 adathalmazból. Egyréteg ˝u neuronhálót használva írjon osztályozót, amely szétválasztja a különböz˝o
 osztályokat. Négyzetes hibafüggvényt használjon.
