@@ -11,4 +11,6 @@ osztályokat. Négyzetes hibafüggvényt használjon.
 2. Pizza
 
 ### Felmerülő probléma
-Információ hiány, így nem sikerült teljesen befejezni.(A program nem teljesen működőképes)
+1. Adatok betöltése.
+2. Tanítási és teszthalmaz szétválasztása.
+3. Információ hiány, így nem sikerült teljesen befejezni.(A program nem teljesen működőképes)
